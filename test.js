@@ -6,3 +6,4 @@ describe('math', function() {
     expect(2 + 2).to.equal(4);
   });
 });
+/* add comment */
